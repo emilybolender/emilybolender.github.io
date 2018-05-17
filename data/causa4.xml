@@ -59,11 +59,14 @@
         etiam infamie maculis aspersi id est istriones
         aut turpitudinibus subiecte persone.
         Heretici etiam, siue pagani, siue iudei,
-        ab accusatione prohibentur. Secunda autem
+        ab accusatione prohibentur.
+        <div n="1" type="question">
+        <ab> Secunda autem
         et tertia questio eodem concilio uno eodemque capitulo
-        terminatur. Illud uero est huiusmodi.
-        Qui ab accusatione repelluntur
-        aut ad annum xiiii nondum peruenerunt testes esse non possunt.
+        terminatur. Illud uero est huiusmodi.</ab>
+        <div n="1" type="canon">
+        <ab> Qui ab accusatione repelluntur
+        aut ad annum xiiii nondum peruenerunt testes esse non possunt. </ab>
         Testes autem ad testimonium admittendo
         censemus qui nec ad accusationem admitti
         iussi sunt, uel etiam quos ipse accusator de
@@ -75,6 +78,8 @@
         hortu habentis innocens probatus est. Sed
         miracula diuina sunt admiranda non in e-
         xemplum humane acc[ti?]onis trahenda.
+      </div>
+    </div>
         De quarta uero questione fabianus papa constituit
         dicens accusator testis uel iudex aliquis
         simul esse non potest.
