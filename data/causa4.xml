@@ -5,7 +5,7 @@
   <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>"Causa 4" in Gratian's /Decretum/ </title>
+            <title>Causa 4</title>
          </titleStmt>
          <publicationStmt>
             <p>Publication Information</p>
@@ -16,5 +16,8 @@
       </fileDesc>
   </teiHeader>
   <text>
+      <body>
+         <p>Some text here.</p>
+      </body>
   </text>
 </TEI>
