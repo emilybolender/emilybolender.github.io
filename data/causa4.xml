@@ -5,7 +5,7 @@
   <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Causa 4</title>
+            <title>Causa 4 in Gratian's Decretum </title>
          </titleStmt>
          <publicationStmt>
             <p>Publication Information</p>
@@ -17,7 +17,32 @@
   </teiHeader>
   <text>
       <body>
-         <p>Some text here.</p>
+      <intro>
+        [Quidam] in excommunicatione constitutus
+        episcopum accusare disponit, ado-
+        lescentem infra xiiiium etatis sue annum
+        ad assertionem sue cause adducit.
+        Prohibitus ab accusatione adolescentem
+        accusatorem, et se testem facit. Adole-
+        scens personam accusatoris et testis gerere
+        cupit, di statuta ad iudicium electorum
+        iudicium episcopus minime concurrit a communione
+        suspendere, tandem renouato iudicio,
+        accusator culpabilis in accusatione
+        inuenitur, demum ad assertionem
+        proprie cause procedit. Hic primum queritur
+
+        an in excommunicatione constitutus alium
+        accusare ualeat. Secundo autem infra [infra]
+        xiiiium annum in criminari causa testari,
+        quis possit. Tertio, utrum accusatione
+        prohibitus personam testificantis possit assu-
+        mere. Quarto, an [aut?] die constituta
+        non occurrens a communione sit remouendus.
+        Sexto, si in episcoporum indicio accusatoris
+        persona culpabilis inuenta fuerit, an ad as-
+        sertionem proprie cause, de cetero sit admittenda.  
+      </intro>
       </body>
   </text>
 </TEI>
