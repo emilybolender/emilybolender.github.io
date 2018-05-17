@@ -17,7 +17,8 @@
   </teiHeader>
   <text>
       <body>
-        [Quidam] in excommunicatione constitutus
+      <div n="1" type="intro">
+          [Quidam] in excommunicatione constitutus
         episcopum accusare disponit, ado-
         lescentem infra xiiiium etatis sue annum
         ad assertionem sue cause adducit.
@@ -41,9 +42,13 @@
         Sexto, si in episcoporum indicio accusatoris
         persona culpabilis inuenta fuerit, an ad as-
         sertionem proprie cause, de cetero sit admittenda.
-        De prima questione sic statutum legitur,
+      </div>
+        <div n="1" type="question">
+          <ab> De prima questione sic statutum legitur,
         in concilio cartaginensi viio [i.e., septimo] cui interfuit
-        faustinus romane ecclesie legatus. Ad accu-
+        faustinus romane ecclesie legatus. </ab>
+      </div>
+        Ad accu-
         sandum non admittatur qui in excommunicationem perseuerat.
         Diffinimus eum rite ad accusationem non
         admitti, qui posteaquam excommunicatus fuit,
