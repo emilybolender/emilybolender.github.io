@@ -15,4 +15,8 @@ tei-div[type=dictum_ante] {
   font-style: italic;
   font-family: 'Cardo', serif;
 }
+tei-div[type=dictum_post] {
+  font-style: italic;
+  font-family: 'Cardo', serif;
+}
 
