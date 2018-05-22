@@ -2,6 +2,7 @@
  * Conforms to conventions followed by Friedberg, Winroth, etc.
  * Dicta in italics, rubrics in red, etc.
  */
+@import url('https://fonts.googleapis.com/css?family=Cardo');
 tei-div[type=canon_rubric] {
   color: red;
   font-family: 'Cardo', serif;
