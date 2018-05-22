@@ -52,6 +52,7 @@
           <ab> Ad accu-
         sandum non admittatur qui in excommunicationem perseuerat. </ab>
       </div>
+        <div type="inscription">
         <ab> Diffinimus eum rite ad accusationem non
         admitti, qui posteaquam excommunicatus fuit,
         in ispa adhuc excommunicatione constitutus
@@ -61,27 +62,44 @@
         Heretici etiam, siue pagani, siue iudei,
         ab accusatione prohibentur. </ab>
       </div>
-        <div type+"question">
-          Secunda autem
+        <div n="2" type="question">
+          <div type="dictum_ante">
+            <ab> Secunda autem
         et tertia questio eodem concilio uno eodemque capitulo
-        terminatur. Illud uero est huiusmodi.
-        Qui ab accusatione repelluntur
-        aut ad annum xiiii nondum peruenerunt testes esse non possunt.
-        Testes autem ad testimonium admittendo
+        terminatur. Illud uero est huiusmodi. </ab>
+      </div>
+        <div type="canon">
+          <ab> Qui ab accusatione repelluntur
+        aut ad annum xiiii nondum peruenerunt testes esse non possunt. </ab>
+      </div>
+      <div type="inscription">
+        <ab> Testes autem ad testimonium admittendo
         censemus qui nec ad accusationem admitti
         iussi sunt, uel etiam quos ipse accusator de
         domo sua produxerit. Ad testimonium autem
         intra annos xiiii etatis sue constituti
-        non admittantur. Sed obicitur illud beati
+        non admittantur. </ab>
+      </div>
+      <div type="dictum_post">
+        <ab> Sed obicitur illud beati
 
         bricii, qui uoce pueri xxx dies ab
         hortu habentis innocens probatus est. Sed
         miracula diuina sunt admiranda non in e-
-        xemplum humane acc[ti?]onis trahenda.
-        De quarta uero questione fabianus papa constituit
-        dicens accusator testis uel iudex aliquis
-        simul esse non potest.
-        Nullus umquam
+        xemplum humane acc[ti?]onis trahenda. </ab>
+      </div>
+    </div>
+        <div n="3" type="question">
+          <div type="dictum_ante">
+            <ab> De quarta uero questione fabianus papa constituit
+        dicens </ab>
+      </div>
+        <div type="canon">
+          <ab> accusator testis uel iudex aliquis
+        simul esse non potest. </ab>
+      </div>
+      <div type="inscription">
+        <ab> Nullus umquam
         presumat accusator simul esse, et iudex,
         uel testis, quam in omni iudicio iiiior [i.e., quatuor] personas
         semper necesse est esse, in iudices, electos,
@@ -96,12 +114,20 @@
         unusquisque in suo ordine. Inscriptio semper fiat
         ut talionem calumpniator recipiat. Quia ante
         inscriptionem nemo debet indicari [iudicari?] uel
-        dampnari, cum et seculi [?] leges hec eadem retieneant.
-        De v uero questione in concilio cartaginensi
-        tercio sic inuenenitur [?] diffinitum.
-        Non est a co[mmuni]one suspendendus qui die statua
-        ad causam peruenire non potuit.
-        Quisquis episcoporum
+        dampnari, cum et seculi [?] leges hec eadem retieneant.</ab>
+      </div>
+    </div>
+        <div n="4" type="question">
+          <div type="dictum_ante">
+            <ab> De v uero questione in concilio cartaginensi
+        tercio sic inuenenitur [?] diffinitum. </ab>
+      </div>
+      <div type="canon">
+        <ab> Non est a co[mmuni]one suspendendus qui die statua
+        ad causam peruenire non potuit. </ab>
+      </div>
+      <div type="inscription">
+        <ab> Quisquis episcoporum
         accusatur ad primates prouince ipsius
         causam deferat accusator. Nec a communione
         suspendatur, cui crimen intenditur, nisi ad causam
@@ -125,21 +151,34 @@
         one episcopo, remoueater a communione accusator,
         ita tamen, ut nec ipsi adimatur facul-
         tas cause peragende, si se ad diem non uoluisse
-        sed non potuisse occurrere probauerit. Sexta
-        uero questio eodem capitulo terminatur, in quo sequitur.
-        Qui in accusatione episcopi culpabilis inuenitur
+        sed non potuisse occurrere probauerit. </ab>
+      </div>
+    </div>
+    <div n="5" type="question">
+      <div type="dictum_ante">
+        <ab> Sexta uero questio eodem capitulo terminatur, in quo sequitur.</ab>
+      </div>
+      <div type="canon">
+        <ab> Qui in accusatione episcopi culpabilis inuenitur
         ad arguendum de cetero non admittatur
-        nisi propriam causam [solumo?] asserere uoluerit.
-        Illud uero placuit, ut cum agere ceperit
+        nisi propriam causam [solumo?] asserere uoluerit.</ab>
+      </div>
+      <div type="inscription">
+        <ab> Illud uero placuit, ut cum agere ceperit
         in episcoporum iudico si fuerit accusatoris
         dampnabilis, de cetero ad arguendum non
         admittatur, nisi proprias causas, non tamen ecclesias-
-        ticas, uel criminales asserere uoluerit.
-        Item ex concilio cartaginesi viio [i.e., septimo].
-        Non negant audencia in propria causa cui acc[usati?]o interdicitur.
-        Omnibus quibus accusatio denegatur
+        ticas, uel criminales asserere uoluerit. </ab>
+      </div>
+        <div type="canon">
+          <ab>Item ex concilio cartaginesi viio [i.e., septimo].
+        Non negant audencia in propria causa cui acc[usati?]o interdicitur.</ab>
+      </div>
+        <div type="inscription">
+          <ab> Omnibus quibus accusatio denegatur
         in causis propriis accusandi licentia non est
-        neganda.
+        neganda.</ab>
+      </div>
       </div>
       </body>
   </text>
