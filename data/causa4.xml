@@ -17,8 +17,8 @@
   </teiHeader>
   <text>
       <body>
-      <div n="1" type="intro">
-          [Quidam] in excommunicatione constitutus
+      <div n="4" type="case">
+        <ab>[Quidam] in excommunicatione constitutus
         episcopum accusare disponit, ado-
         lescentem infra xiiiium etatis sue annum
         ad assertionem sue cause adducit.
@@ -41,32 +41,32 @@
         non occurrens a communione sit remouendus.
         Sexto, si in episcoporum indicio accusatoris
         persona culpabilis inuenta fuerit, an ad as-
-        sertionem proprie cause, de cetero sit admittenda.
-      </div>
+        sertionem proprie cause, de cetero sit admittenda. </ab>
         <div n="1" type="question">
-          <ab> De prima questione sic statutum legitur,
+        <div type="dictum_ante">
+        <ab> De prima questione sic statutum legitur,
         in concilio cartaginensi viio [i.e., septimo] cui interfuit
         faustinus romane ecclesie legatus. </ab>
-        <div n="1" type="canon">
-        <ab> Ad accu-
-        sandum non admittatur qui in excommunicationem perseuerat </ab>
       </div>
-    </div>
-        Diffinimus eum rite ad accusationem non
+        <div n="1" type="canon">
+          <ab> Ad accu-
+        sandum non admittatur qui in excommunicationem perseuerat. </ab>
+      </div>
+        <ab> Diffinimus eum rite ad accusationem non
         admitti, qui posteaquam excommunicatus fuit,
         in ispa adhuc excommunicatione constitutus
         siue sit clericus, accusare uoluerit. Omnes
         etiam infamie maculis aspersi id est istriones
         aut turpitudinibus subiecte persone.
         Heretici etiam, siue pagani, siue iudei,
-        ab accusatione prohibentur.
-        <div n="1" type="question">
-        <ab> Secunda autem
+        ab accusatione prohibentur. </ab>
+      </div>
+        <div type+"question">
+          Secunda autem
         et tertia questio eodem concilio uno eodemque capitulo
-        terminatur. Illud uero est huiusmodi.</ab>
-        <div n="1" type="canon">
-        <ab> Qui ab accusatione repelluntur
-        aut ad annum xiiii nondum peruenerunt testes esse non possunt. </ab>
+        terminatur. Illud uero est huiusmodi.
+        Qui ab accusatione repelluntur
+        aut ad annum xiiii nondum peruenerunt testes esse non possunt.
         Testes autem ad testimonium admittendo
         censemus qui nec ad accusationem admitti
         iussi sunt, uel etiam quos ipse accusator de
@@ -78,8 +78,6 @@
         hortu habentis innocens probatus est. Sed
         miracula diuina sunt admiranda non in e-
         xemplum humane acc[ti?]onis trahenda.
-      </div>
-    </div>
         De quarta uero questione fabianus papa constituit
         dicens accusator testis uel iudex aliquis
         simul esse non potest.
@@ -142,6 +140,7 @@
         Omnibus quibus accusatio denegatur
         in causis propriis accusandi licentia non est
         neganda.
+      </div>
       </body>
   </text>
 </TEI>
