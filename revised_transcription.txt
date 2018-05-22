@@ -1,4 +1,4 @@
-[Quidam] in excommunicatione constitutus
+[Quidam] in excomunicatione constitutus
 episcopum accusare disponit, ado-
 lescentem infra xiiiium etatis sue annum
 ad assertionem sue cause adducit.
@@ -6,7 +6,7 @@ Prohibitus ab accusatione adolescentem
 accusatorem, et se testem facit. Adole-
 scens personam accusatoris et testis gerere
 cupit, di statuta ad iudicium electorum
-iudicium episcopus minime concurrit a communione
+iudicium episcopus minime concurrit a co[mmun]io[n]e
 suspendere, tandem renouato iudicio,
 accusator culpabilis in accusatione
 inuenitur, demum ad assertionem
@@ -14,10 +14,10 @@ proprie cause procedit. Hic primum queritur
 
 an in excommunicatione constitutus alium
 accusare ualeat. Secundo autem infra [infra]
-xiiiium annum in criminari causa testari,
-quis possit. Tertio, utrum accusatione
+xiiiium. annum in criminari causa testari,
+quis possit. Tercio, utrum accusatione
 prohibitus personam testificantis possit assu-
-mere. Quarto, an [aut?] die constituta
+mere. Quarto, aut [?] die constituta
 non occurrens a communione sit remouendus.
 Sexto, si in episcoporum indicio accusatoris
 persona culpabilis inuenta fuerit, an ad as-
@@ -30,14 +30,14 @@ Diffinimus eum rite ad accusationem non
 admitti, qui posteaquam excommunicatus fuit,
 in ispa adhuc excommunicatione constitutus
 siue sit clericus, accusare uoluerit. Omnes
-etiam infamie maculis aspersi id est istriones
+etiam infamie maculis aspersi, id est istriones,
 aut turpitudinibus subiecte persone.
 Heretici etiam, siue pagani, siue iudei,
 ab accusatione prohibentur. Secunda autem
-et tertia questio eodem concilio uno eodemque capitulo
+et tercia questio eodem concilio uno eodemque capitulo
 terminatur. Illud uero est huiusmodi.
-Qui ab accusatione repelluntur
-aut ad annum xiiii nondum peruenerunt testes esse non possunt.
+Qui ab accusatione repelluntur aut ad annum 
+xiiii. nondum peruenerunt testes esse non possunt.
 Testes autem ad testimonium admittendo
 censemus qui nec ad accusationem admitti
 iussi sunt, uel etiam quos ipse accusator de
@@ -50,13 +50,13 @@ hortu habentis innocens probatus est. Sed
 miracula diuina sunt admiranda non in e-
 xemplum humane acc[ti?]onis trahenda.
 De quarta uero questione fabianus papa constituit
-dicens accusator testis uel iudex aliquis
+dicens: Accusator testis uel iudex aliquis
 simul esse non potest.
 Nullus umquam
 presumat accusator simul esse, et iudex,
 uel testis, quam in omni iudicio iiiior [i.e., quatuor] personas
 semper necesse est esse, in iudices, electos,
-accusatores, ac defensores, atque testes.
+et accusatores, ac defensores, atque testes.
 Item damasus papa. Quilibet in causa duas personas
 gerere non ualet.
 Nullus introducatur personaliter
@@ -84,7 +84,7 @@ ex ea die qua eum litteras accepisse constiterit.
 Quod si aliquas ueras necessitatis causas propriau[er?]it
 quibus occurrere non potuisse manifestum sit
 cause sue dicende, intra alterem mensem integram
-habeat facultatem. Uerum tamdiu post mensem secundum
+habeat facultatem. Verum tamdiu post mensem secundum
 non communicet, donec purgetur. Si autem ad uniuer-
 sale concilium [anniuersalium?] occurrere
 uoluit, ut uel ibi causa eius terminetur,
