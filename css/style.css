@@ -1,0 +1,17 @@
+/*
+ * Conforms to conventions followed by Friedberg, Winroth, etc.
+ * Dicta in italics, rubrics in red, etc.
+ */
+tei-div[type=canon_rubric] {
+  color: red;
+  font-family: 'Cardo', serif;
+  font-style: italic;
+}
+tei-div[type=canon_text] {
+  font-family: 'Cardo', serif;
+}
+tei-div[type=dictum_ante] {
+  font-style: italic;
+  font-family: 'Cardo', serif;
+}
+
