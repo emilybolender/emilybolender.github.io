@@ -45,9 +45,8 @@
         in concilio cartaginensi viio [i.e., septimo] cui interfuit
         faustinus romane ecclesie legatus. </ab>
       </div>
-        <div n="1" type="canon">
-          <ab> Ad accu-
-        sandum non admittatur qui in excommunicationem perseuerat. </ab>
+        <div n="1" type="canon_rubric">
+          <ab> Ad accusandum non admittatur qui in excommunicationem perseuerat. </ab>
       </div>
         <div type="inscription">
         <ab> Diffinimus eum rite ad accusationem non
@@ -66,7 +65,7 @@
         et tertia questio eodem concilio uno eodemque capitulo
         terminatur. Illud uero est huiusmodi. </ab>
       </div>
-        <div type="canon">
+        <div type="canon_rubric">
           <ab> Qui ab accusatione repelluntur
         aut ad annum xiiii nondum peruenerunt testes esse non possunt. </ab>
       </div>
@@ -91,7 +90,7 @@
             <ab> De quarta uero questione fabianus papa constituit
         dicens </ab>
       </div>
-        <div type="canon">
+        <div type="canon_rubric">
           <ab> accusator testis uel iudex aliquis
         simul esse non potest. </ab>
       </div>
@@ -101,8 +100,11 @@
         uel testis, quam in omni iudicio iiiior [i.e., quatuor] personas
         semper necesse est esse, in iudices, electos,
         accusatores, ac defensores, atque testes.
-        Item damasus papa. Quilibet in causa duas personas
-        gerere non ualet.
+        Item damasus papa.
+        <div type="canon_rubric">
+        <ab>Quilibet in causa duas personas
+        gerere non ualet.</ab>
+      </div>
         Nullus introducatur personaliter
         ad [ca?]usam sed accusatores, et accusati equa
         audiantur, ratione, iuxta, quod ordo exigit.
@@ -119,7 +121,7 @@
             <ab> De v uero questione in concilio cartaginensi
         tercio sic inuenenitur [?] diffinitum. </ab>
       </div>
-      <div type="canon">
+      <div type="canon_rubric">
         <ab> Non est a co[mmuni]one suspendendus qui die statua
         ad causam peruenire non potuit. </ab>
       </div>
@@ -129,8 +131,7 @@
         causam deferat accusator. Nec a communione
         suspendatur, cui crimen intenditur, nisi ad causam
         suam dicendam, electorum iudicium, die
-        statua litteris euocatus minime occur-
-        rerit. Hoc est infra [infra?] spatium mensis.
+        statua litteris euocatus minime occurrerit. Hoc est infra [infra?] spatium mensis.
 
         ex ea die qua eum litteras accepisse constiterit.
         Quod si aliquas ueras necessitatis causas propriau[er?]it
@@ -153,7 +154,7 @@
       <div type="dictum_ante">
         <ab> Sexta uero questio eodem capitulo terminatur, in quo sequitur.</ab>
       </div>
-      <div type="canon">
+      <div type="canon_rubric">
         <ab> Qui in accusatione episcopi culpabilis inuenitur
         ad arguendum de cetero non admittatur
         nisi propriam causam [solumo?] asserere uoluerit.</ab>
@@ -166,8 +167,10 @@
         ticas, uel criminales asserere uoluerit. </ab>
       </div>
         <div type="canon">
-          <ab>Item ex concilio cartaginesi viio [i.e., septimo].
-        Non negant audencia in propria causa cui acc[usati?]o interdicitur.</ab>
+          <ab>Item ex concilio cartaginesi viio [i.e., septimo]. </ab>
+        </div>
+<div type="canon_rubric">
+        <ab>Non negant audencia in propria causa cui acc[usati?]o interdicitur.</ab>
       </div>
         <div type="inscription">
           <ab> Omnibus quibus accusatio denegatur
