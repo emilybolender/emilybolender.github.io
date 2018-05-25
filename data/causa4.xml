@@ -47,7 +47,7 @@
         <div n="1" type="canon_rubric">
           <ab> Ad accusandum non admittatur qui in excommunicationem perseuerat. </ab>
       </div>
-        <div type="inscription">
+        <div type="canon_text">
         <ab> Diffinimus eum rite ad accusationem non
         admitti, qui posteaquam excommunicatus fuit,
         in ispa adhuc excommunicatione constitutus
@@ -68,7 +68,7 @@
           <ab> Qui ab accusatione repelluntur
         aut ad annum xiiii nondum peruenerunt testes esse non possunt. </ab>
       </div>
-      <div type="inscription">
+      <div type="canon_text">
         <ab> Testes autem ad testimonium admittendo
         censemus qui nec ad accusationem admitti
         iussi sunt, uel etiam quos ipse accusator de
@@ -93,7 +93,7 @@
           <ab> accusator testis uel iudex aliquis
         simul esse non potest. </ab>
       </div>
-      <div type="inscription">
+      <div type="canon_text">
         <ab> Nullus umquam
         presumat accusator simul esse, et iudex,
         uel testis, quam in omni iudicio iiiior [i.e., quatuor] personas
@@ -124,7 +124,7 @@
         <ab> Non est a co[mmuni]one suspendendus qui die statua
         ad causam peruenire non potuit. </ab>
       </div>
-      <div type="inscription">
+      <div type="canon_text">
         <ab> Quisquis episcoporum
         accusatur ad primates prouince ipsius
         causam deferat accusator. Nec a communione
@@ -158,7 +158,7 @@
         ad arguendum de cetero non admittatur
         nisi propriam causam [solumo?] asserere uoluerit.</ab>
       </div>
-      <div type="inscription">
+      <div type="canon_text">
         <ab> Illud uero placuit, ut cum agere ceperit
         in episcoporum iudico si fuerit accusatoris
         dampnabilis, de cetero ad arguendum non
@@ -171,7 +171,7 @@
 <div type="canon_rubric">
         <ab>Non negant audencia in propria causa cui acc[usati?]o interdicitur.</ab>
       </div>
-        <div type="inscription">
+        <div type="canon_text">
           <ab> Omnibus quibus accusatio denegatur
         in causis propriis accusandi licentia non est
         neganda.</ab>
