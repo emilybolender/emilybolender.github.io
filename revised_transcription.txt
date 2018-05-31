@@ -100,7 +100,7 @@ sed non potuisse occurrere probauerit. Sexta
 uero questio eodem capitulo terminatur, in quo sequitur.
 Qui in accusatione episcopi culpabilis inuenitur
 ad arguendum de cetero non admittatur
-nisi propriam causam [solumo?] asserere uoluerit.
+nisi propriam causam solummodo asserere uoluerit.
 Illud uero placuit, ut cum agere ceperit
 in episcoporum iudico si fuerit accusatoris
 dampnabilis, de cetero ad arguendum non
